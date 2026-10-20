@@ -14,6 +14,7 @@ print(f'A soma entre {n1} e {n2} é igual a {s}')'''
 
 #Exemplo
 
-'''a = 5
+a = 5
 print(a)
-print(f'O tipo primitivo desse valor é {type(a)}')'''
+print(f'O tipo primitivo desse valor é {type(a)}')
+
